@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anithaseepana47" alt="anithaseepana47" /></a> </p>
 
-- 🔭 I’m currently working on **Clean Air Connect**
+- 🔭 I’m currently contributing to **GirlScript Summer of Code**
 
 - 🌱 I’m currently learning **JavaScript, Data Structures in python**
 
